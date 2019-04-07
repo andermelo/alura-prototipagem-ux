@@ -5,8 +5,8 @@ Curso da Alura Prototipagem e UX
 
 ### Certificados de conclusão dos cursos :D
 
-1. [PROTOTIPAGEM E UX PARTE 1: ALTA FIDELIDADE COM O ADOBE XD](https://cursos.alura.com.br/user/andermelo/course/prototipagem-alta-fidelidade-adobe-xd/certificate)
-1. [PROTOTIPAGEM E UX PARTE 2: LINKANDO TELAS NO ADOBE XD](https://cursos.alura.com.br/user/andermelo/course/prototipagem-ux-link-com-telas-no-adobe-xd/certificate)
+1. [PROTOTIPAGEM E UX PARTE 1](https://cursos.alura.com.br/user/andermelo/course/prototipagem-alta-fidelidade-adobe-xd/certificate)
+1. [PROTOTIPAGEM E UX PARTE 2](https://cursos.alura.com.br/user/andermelo/course/prototipagem-ux-link-com-telas-no-adobe-xd/certificate)
 
 ### Recursos utilizados
 
