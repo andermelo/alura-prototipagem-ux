@@ -3,6 +3,11 @@ Curso da Alura Prototipagem e UX
 
 ![Prototipo ByteBank App](https://github.com/andermelo/alura-prototipagem-ux/blob/master/assets/telas/Web%201920%20%E2%80%93%201.jpg)
 
+### Certificados de conclusão dos cursos :D
+
+1. [PROTOTIPAGEM E UX PARTE 1: ALTA FIDELIDADE COM O ADOBE XD](https://cursos.alura.com.br/user/andermelo/course/prototipagem-alta-fidelidade-adobe-xd/certificate)
+1. [PROTOTIPAGEM E UX PARTE 2: LINKANDO TELAS NO ADOBE XD](https://cursos.alura.com.br/user/andermelo/course/prototipagem-ux-link-com-telas-no-adobe-xd/certificate)
+
 ### Recursos utilizados
 
 1. [Arquivos iniciais fornecidos pela Alura :heart_eyes:](https://github.com/andermelo/alura-prototipagem-ux/tree/master/assets/Stages/arquivos-iniciais)
