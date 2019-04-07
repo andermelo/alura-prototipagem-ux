@@ -1,6 +1,8 @@
 # Prototipagem e UX
 Curso da Alura Prototipagem e UX
 
+![Prototipo ByteBank App](https://github.com/andermelo/alura-prototipagem-ux/blob/master/assets/telas/Web%201920%20%E2%80%93%201.jpg)
+
 ### Recursos utilizados
 
 1. [Arquivos iniciais fornecidos pela Alura :heart_eyes:](https://github.com/andermelo/alura-prototipagem-ux/tree/master/assets/Stages/arquivos-iniciais)
